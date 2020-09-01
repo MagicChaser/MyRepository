@@ -6,3 +6,4 @@ Modify the file in battle.
 Modify the file in master1.
 Conflict test in battle
 battle
+欲练此功，必先自宫！小兄弟，考虑好了吗？  --东方不败
