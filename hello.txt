@@ -1,11 +1,16 @@
 However dark and scary the world might be right now, there will be light.
 无论世界现在有多黑暗，多可怕，终有一天会重现光明
-Big data!~
+Big data!~   hadoop
 the data in a new branch.
-Modify the file in battle.
+Modify the file in battle. 
 Modify the file in master1.
 Conflict test in battle
 battle
+
+
+写的好~~~~~   --by chenfujiang
+
 欲练此功，必先自宫！小兄弟，考虑好了吗？  --东方不败
 
 你可爱死了  --匿名用户
+
