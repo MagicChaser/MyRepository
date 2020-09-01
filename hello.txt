@@ -4,3 +4,5 @@ Big data!~
 the data in a new branch.
 Modify the file in battle.
 Modify the file in master1.
+Conflict test in battle
+battle
